@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS SpotifyClone;
-
+-- first commit
   CREATE DATABASE IF NOT EXISTS SpotifyClone;
 
   CREATE TABLE SpotifyClone.tabela1(
